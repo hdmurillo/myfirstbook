@@ -1,6 +1,11 @@
 --- 
+<<<<<<< HEAD
 title: "Salud y Bienestar"
 author: "Héctor Murillo"
+=======
+title: "Mi first book"
+author: "Dr. Héctor Murillo"
+>>>>>>> 00273b1c7371a57cc62b3a7fed449e3c5fc91cab
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
