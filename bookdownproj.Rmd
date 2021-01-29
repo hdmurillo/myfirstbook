@@ -11,4 +11,22 @@ site: bookdown::bookdown_site
 ---
 
 # Down the rabbit-hole
-Este es la modificación al primer envío.
+
+
+<!--chapter:end:index.Rmd-->
+
+# Epidemiología de México
+
+
+<!--chapter:end:02-tears.Rmd-->
+
+# Alimentación saludable
+
+
+<!--chapter:end:03-race.Rmd-->
+
+# Ejercicio
+
+
+<!--chapter:end:04-Ejercicio.Rmd-->
+
